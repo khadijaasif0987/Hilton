@@ -1,0 +1,182 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+header{
+  display:flex;
+  
+  
+}
+h3{
+  margin-top:40px;
+  margin-left:30px;
+}
+#h32{
+  margin-top:40px;
+  margin-left:450px;
+}
+#img1{
+  margin-top:35px;
+
+}
+#div1{
+  display:flex;
+  background-color:#3ca9d7;
+  color:white;
+  margin-top:120px;
+}
+#h22{
+  margin-top:25px;
+  margin-left:80px;
+}
+#img2{
+  margin-left:50px;
+}
+#h34{
+  margin-bottom:30px;
+}
+#h11{
+  text-align:center;
+  color:darkblue;
+}
+#Stay{
+ text-align:center;
+}
+#button1{
+  color:white;
+  background-color:darkblue;
+  font-size:25px;
+  border-radius: 4px;
+}
+#h12{
+  color:darkblue;
+  margin-left:30px;
+}
+#Stay1{
+  margin-left:30px;
+}
+#divflex{
+  display:flex;
+  flex-wrap:wrap;
+  filter: brightness(100%);
+  margin-left:20px;
+  margin-top:30px;
+}
+#t{
+   position:absolute; 
+   left:50px;
+top:120px;
+  color: white;
+
+}
+#d{
+   position:absolute; 
+   left:450px;
+top:120px;
+  color:white;
+
+}
+#f{
+   position:absolute; 
+   left:850px;
+top:120px;
+  color:white;
+}
+#g{
+   position:absolute; 
+   left:850px;
+top:120px;
+  color:white;
+}
+#h{
+   position:absolute; 
+   left:50px;
+top:350px;
+  color:white;
+}
+#i{
+   position:absolute; 
+   left:450px;
+top:350px;
+  color:white;
+}
+#j{
+   position:absolute; 
+   left:850px;
+top:350px;
+  color:white;
+}
+#wor{
+  display:flex;
+
+}
+header{
+  position:fixed;
+  background-color:white;
+  z-index: 1;
+}
+#par{
+  display:flex;
+  margin-top:40px;
+  font-size:14px;
+  margin-left:30px;
+}
+#divflu{
+  display:flex;
+  flex-wrap:wrap;
+  filter: brightness(100%);
+  margin-left:20px;
+  margin-top:30px;
+}
+#id1{
+   position:absolute; 
+   left:120px;
+top:150px;
+  color:white;
+}
+#id2{
+   position:absolute; 
+   left:520px;
+top:150px;
+  color:white;
+}
+#id3{
+   position:absolute; 
+   left:900px;
+top:150px;
+  color:white;
+}
+#wor2{
+  display:flex;
+
+}
+#par2{
+  display:flex;
+  font-size:14px;
+  margin-left:30px;
+}
+#pictu{
+  position:absolute;
+  top:3800px;
+}
+#button2{
+  color:white;
+  background-color:darkblue;
+  font-size:25px;
+  border-radius: 4px;
+  margin-left:750px;
+}
+#ldiv{
+  margin-top:240px;
+  background-color:#e6e5e5
+}
+#lrp{
+  margin-left:100px;
+}
+#button3{
+  color:white;
+  background-color:darkblue;
+  font-size:25px;
+  border-radius: 4px;
+  margin-left:475px;
+}
